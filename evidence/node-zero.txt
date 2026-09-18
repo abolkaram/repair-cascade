@@ -1,0 +1,1 @@
+REPAIR CASCADE OPERATOR DEMO. Freeze-writes node complete. New writes are blocked and rollback remains safe.
